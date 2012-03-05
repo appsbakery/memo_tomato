@@ -19,6 +19,11 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
-  # s.add_runtime_dependency "rest-client"
+  s.add_runtime_dependency "multi_json", "~> 1.0"
+  s.add_runtime_dependency "httpclient", ">= 2.2.0.2"
+  s.add_runtime_dependency "hashie", ">= 1.1.0"
+  s.add_development_dependency "rake", ">= 0.8.7"
+  s.add_development_dependency "rspec", ">= 2"
+  s.add_development_dependency "webmock", ">= 1.6.2"
+  s.add_development_dependency "timecop", ">= 0.3.5"
 end
