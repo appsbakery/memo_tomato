@@ -5,20 +5,10 @@ module MemoTomato
         parsed_response = MultiJson.decode(content.body)
         parsed_response = Hashie::Mash.new(parsed_response)
         
-        # In our case we want the first 30 movies so the request can return a total
-        # of more or less than that so we have to check
-        movies = []
-        count = 0
-        if parsed_response.total > 29 
-          30.times do |i|
-            movies << parse_entry(parsed_response.movies[i])
-          end
-        else
-          parsed_response.total.times do |i|
-            movies << parse_entry(parsed_response.movies[i])
-          end
+        # In our case we want the first 30 movies
+        parsed_response.movies.collect do |movie|
+          parse_entry(movie)
         end
-        movies
       end
 
       def parse_entry(movie)
