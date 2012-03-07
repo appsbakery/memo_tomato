@@ -3,9 +3,14 @@ module MemoTomato
     attr_reader :params
     
     def initialize(options)
-      @params = { :key => options[:key] }
+      @params = { :apikey => options[:apikey] }
     end
     
+    def search(query)
+      content = get('movies', { :q => query })
+      parser = MemoTomato::Parser::SearchMovie.new content
+      parser.parse
+    end    
     
     private
     def get(path, params = {})

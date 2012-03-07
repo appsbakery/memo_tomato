@@ -1,47 +1,1797 @@
 {
-  "total": 591,
-  "movies": [{
-    "title": "Jack and Jill",
-    "year": 2011,
-    "runtime": "",
-    "release_dates": {"theater": "2011-11-11"},
-    "ratings": {
-      "critics_score": -1,
-      "audience_score": 90
-    },
-    "synopsis": "",
-    "posters": {
-      "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
-      "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
-      "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
-      "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
-
-    },
-    "abridged_cast": [
-      {
-        "name": "Al Pacino",
-        "characters": []
+  "total": 580,
+  "movies": [
+    {
+      "id": "771189410",
+      "title": "Jack the Giant Killer",
+      "year": 2012,
+      "mpaa_rating": "Unrated",
+      "runtime": "",
+      "release_dates": {
+        "theater": "2012-06-15"
       },
-      {
-        "name": "Adam Sandler",
-        "characters": []
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 93
       },
-      {
-        "name": "Katie Holmes",
-        "characters": []
+      "synopsis": "Jack the Giant Killer tells the story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack, into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend-and gets the chance to become a legend himself. -- (C) Warner Bros",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/28/11162856_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/28/11162856_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/28/11162856_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/28/11162856_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Nicholas Hoult",
+          "characters": [
+            "Jack"
+          ]
+        },
+        {
+          "name": "Eleanor Tomlinson"
+        },
+        {
+          "name": "Stanley Tucci",
+          "characters": [
+            "Roderick"
+          ]
+        },
+        {
+          "name": "Ian McShane",
+          "characters": [
+            "King Brahmwell"
+          ]
+        },
+        {
+          "name": "Bill Nighy",
+          "characters": [
+            "Fallon"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1351685"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771189410.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack_the_giant_killer_2010/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771189410/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771189410/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771189410/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771189410/similar.json"
       }
-    ],
-    "links": {
-      "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893.json",
-      "alternate": "http://www.rottentomatoes.com/m/jack_and_jill_2011/"
-
+    },
+    {
+      "id": "770675212",
+      "title": "Jack and Diane",
+      "year": 2011,
+      "mpaa_rating": "Unrated",
+      "runtime": 110,
+      "release_dates": {
+        "theater": "2012-06-01"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 74
+      },
+      "synopsis": "Jack and Diane are two teenage girls who meet in New York City and spend the night kissing ferociously, quickly striking up a passionate love affair. But when Jack discovers that Diane is leaving the country in a week, she tries to push her away. Diane struggles to keep their love alive while hiding the secret that her newly awakened sexual desire is giving her monster-like visions. JACK AND DIANE also stars Dane DeHaan (\"True Blood\"), Michael Chernus (Love and Other Drugs) and Lou Taylor Pucci (Carriers). The film features animation from the Brothers Quay, and creature effects by Gabe Bartalos (Cremaster 2 and 4). -- (C) Magnolia",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jena Malone"
+        },
+        {
+          "name": "Juno Temple"
+        },
+        {
+          "name": "Danielle Riley Keough"
+        },
+        {
+          "name": "Kylie Minogue"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0850677"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675212.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack-and-diane/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675212/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675212/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675212/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675212/similar.json"
+      }
+    },
+    {
+      "id": "771266413",
+      "title": "Jack The Giant Killer: An IMAX 3D Experience",
+      "year": 2012,
+      "mpaa_rating": "Unrated",
+      "runtime": "",
+      "release_dates": {
+        "theater": "2012-07-15"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 40
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Nicholas Hoult"
+        },
+        {
+          "name": "Stanley Tucci"
+        },
+        {
+          "name": "Bill Nighy"
+        },
+        {
+          "name": "Eleanor Tomlinson"
+        },
+        {
+          "name": "Ewan McGregor"
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771266413.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack_the_giant_killer_an_imax_3d_experience/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771266413/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771266413/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771266413/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771266413/similar.json"
+      }
+    },
+    {
+      "id": "771257656",
+      "title": "Percy Jackson & The Olympians: The Sea Of Monsters",
+      "year": 2013,
+      "mpaa_rating": "Unrated",
+      "runtime": "",
+      "release_dates": {
+        "theater": "2013-03-27"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 96
+      },
+      "synopsis": "Percy Jackson, the son of Poseidon, continues his epic journey to fulfill his destiny, as he teams with his demigod friends to retrieve the Golden Fleece, which has the power to save their home and training ground, Camp Half-Blood.",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Logan Lerman",
+          "characters": [
+            "Percy Jackson"
+          ]
+        },
+        {
+          "name": "Alexandra Daddario",
+          "characters": [
+            "Annabeth"
+          ]
+        },
+        {
+          "name": "Brandon T. Jackson",
+          "characters": [
+            "Grover"
+          ]
+        },
+        {
+          "name": "Douglas Smith"
+        },
+        {
+          "name": "Missi Pyle"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1854564"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771257656.json",
+        "alternate": "http://www.rottentomatoes.com/m/percy_jackson_and_the_olympians_the_sea_of_monsters/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771257656/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771257656/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771257656/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771257656/similar.json"
+      }
+    },
+    {
+      "id": "770805263",
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "year": 2010,
+      "mpaa_rating": "PG",
+      "runtime": 120,
+      "critics_consensus": "Though it may seem like just another Harry Potter knockoff, Percy Jackson benefits from a strong supporting cast, a speedy plot, and plenty of fun with Greek mythology.",
+      "release_dates": {
+        "theater": "2010-02-12",
+        "dvd": "2010-06-29"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 49,
+        "audience_rating": "Spilled",
+        "audience_score": 57
+      },
+      "synopsis": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/10/94/11/10941176_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/10/94/11/10941176_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/10/94/11/10941176_det.jpg",
+        "original": "http://content6.flixster.com/movie/10/94/11/10941176_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Logan Lerman",
+          "characters": [
+            "Percy Jackson"
+          ]
+        },
+        {
+          "name": "Brandon T. Jackson",
+          "characters": [
+            "Grover"
+          ]
+        },
+        {
+          "name": "Alexandra Daddario",
+          "characters": [
+            "Annabeth"
+          ]
+        },
+        {
+          "name": "Jake Abel",
+          "characters": [
+            "Luke"
+          ]
+        },
+        {
+          "name": "Sean Bean",
+          "characters": [
+            "Zeus"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0814255"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770805263.json",
+        "alternate": "http://www.rottentomatoes.com/m/0814255/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770805263/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770805263/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770805263/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770805263/similar.json"
+      }
+    },
+    {
+      "id": "770814825",
+      "title": "Michael Jackson's This Is It",
+      "year": 2009,
+      "mpaa_rating": "PG",
+      "runtime": 121,
+      "critics_consensus": "While it may not be the definitive concert film (or the insightful backstage look) some will hope for, Michael Jackson's This Is It packs more than enough entertainment value to live up to its ambitious title.",
+      "release_dates": {
+        "theater": "2009-10-28",
+        "dvd": "2010-01-26"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 81,
+        "audience_rating": "Upright",
+        "audience_score": 82
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/10/89/74/10897428_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/10/89/74/10897428_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/10/89/74/10897428_det.jpg",
+        "original": "http://content6.flixster.com/movie/10/89/74/10897428_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Michael Jackson"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1477715"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814825.json",
+        "alternate": "http://www.rottentomatoes.com/m/michael_jackson_this_is_it/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814825/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814825/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814825/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814825/similar.json"
+      }
+    },
+    {
+      "id": "770813677",
+      "title": "The Karate Kid",
+      "year": 2010,
+      "mpaa_rating": "PG",
+      "runtime": 140,
+      "critics_consensus": "It may not be as powerful as the 1984 edition, but the 2010 Karate Kid delivers a surprisingly satisfying update on the original.",
+      "release_dates": {
+        "theater": "2010-06-11",
+        "dvd": "2010-10-05"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 67,
+        "audience_rating": "Upright",
+        "audience_score": 75
+      },
+      "synopsis": "When a 12-year-old from Detroit moves to China with his mother and incurs the wrath of the class bully at his new school, he makes an unlikely ally in the form of his aging maintenance man, a kung fu master who teaches him the secrets to self-defense. Upon arriving at his new school, Dre Parker (Jaden Smith) develops a powerful crush on pretty classmate Mei Ying. The feeling is mutual, although the cultural divide between Dre and Mei Ying makes a friendship unlikely, and romance impossible. When cruel classmate and kung fu prodigy Cheng learns of Dre's feelings for Mei Ying, he harasses and humiliates the young outsider in front of the entire school. With no one to turn to for help, Dre confides his fears in kindly maintenance man Mr. Han (Jackie Chan), a kung fu master who knows that serenity and maturity -- not punches and power -- are the true keys to mastering the martial arts. As Dre prepares to face down his intimidating tormentor, he begins to realize that the real fight is just beginning. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/12/21/11122168_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/12/21/11122168_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/12/21/11122168_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/12/21/11122168_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jaden Smith",
+          "characters": [
+            "Dre Parker"
+          ]
+        },
+        {
+          "name": "Jackie Chan",
+          "characters": [
+            "Mr. Han"
+          ]
+        },
+        {
+          "name": "Taraji P. Henson",
+          "characters": [
+            "Sherry Parker"
+          ]
+        },
+        {
+          "name": "Han Wenwen",
+          "characters": [
+            "Meiying"
+          ]
+        },
+        {
+          "name": "Rongguang Yu",
+          "characters": [
+            "Master Li"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1155076"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770813677.json",
+        "alternate": "http://www.rottentomatoes.com/m/karate_kid_2010/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770813677/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770813677/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770813677/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770813677/similar.json"
+      }
+    },
+    {
+      "id": "287865350",
+      "title": "Jackass: Number Two",
+      "year": 2006,
+      "mpaa_rating": "R",
+      "runtime": 92,
+      "critics_consensus": "Better than any sequel to a movie of a television show has a right to be, Jackass: Number Two dares you not to laugh.",
+      "release_dates": {
+        "theater": "2006-09-22",
+        "dvd": "2006-12-26"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 63,
+        "audience_rating": "Upright",
+        "audience_score": 83
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/88/83/10888302_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/88/83/10888302_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/88/83/10888302_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/88/83/10888302_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Johnny Knoxville"
+        },
+        {
+          "name": "Stephen 'Steve-O' Glover"
+        },
+        {
+          "name": "Chris Pontius"
+        },
+        {
+          "name": "Ryan Dunn"
+        },
+        {
+          "name": "Jason \"Wee Man\" Acuna"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0493430"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865350.json",
+        "alternate": "http://www.rottentomatoes.com/m/jackass_number_2/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865350/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865350/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865350/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/287865350/similar.json"
+      }
+    },
+    {
+      "id": "16673",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "mpaa_rating": "R",
+      "runtime": 116,
+      "release_dates": {
+        "theater": "1987-06-17",
+        "dvd": "1999-06-29"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 97,
+        "audience_rating": "Upright",
+        "audience_score": 93
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/53/08/530874_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/53/08/530874_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/53/08/530874_det.jpg",
+        "original": "http://content8.flixster.com/movie/53/08/530874_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Matthew Modine",
+          "characters": [
+            "Private Joker/Private J.T. Davis"
+          ]
+        },
+        {
+          "name": "Adam Baldwin",
+          "characters": [
+            "Animal Mother"
+          ]
+        },
+        {
+          "name": "Vincent D'Onofrio",
+          "characters": [
+            "Leonard Lawrence Pvt. Gomer Pyle"
+          ]
+        },
+        {
+          "name": "R. Lee Ermey",
+          "characters": [
+            "Gunnery Sgt. Hartman"
+          ]
+        },
+        {
+          "name": "Dorian Harewood",
+          "characters": [
+            "Eightball"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0093058"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/16673.json",
+        "alternate": "http://www.rottentomatoes.com/m/full_metal_jacket/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/16673/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/16673/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/16673/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/16673/similar.json"
+      }
+    },
+    {
+      "id": "13450",
+      "title": "Jackass - The Movie",
+      "year": 2002,
+      "mpaa_rating": "R",
+      "runtime": 84,
+      "critics_consensus": "There's a good chance you'll be laughing hysterically at one stunt, but getting grossed out by the next one in this big screen version of the controversial MTV show.",
+      "release_dates": {
+        "theater": "2002-10-25",
+        "dvd": "2003-03-25"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 49,
+        "audience_rating": "Upright",
+        "audience_score": 78
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/26/98/269808_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/26/98/269808_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/26/98/269808_det.jpg",
+        "original": "http://content6.flixster.com/movie/26/98/269808_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Johnny Knoxville"
+        },
+        {
+          "name": "Bam Margera"
+        },
+        {
+          "name": "Chris Pontius"
+        },
+        {
+          "name": "Stephen 'Steve-O' Glover"
+        },
+        {
+          "name": "Dave England"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0322802"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13450.json",
+        "alternate": "http://www.rottentomatoes.com/m/jackass_the_movie/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13450/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13450/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13450/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13450/similar.json"
+      }
+    },
+    {
+      "id": "770802613",
+      "title": "Jackass 3-D",
+      "year": 2010,
+      "mpaa_rating": "R",
+      "runtime": 94,
+      "critics_consensus": "The Jackass gang might be running out of gross-out stunts, but this installment contains plenty of brilliantly brain-dead comedy -- and the 3-D adds a pungent new dimension.",
+      "release_dates": {
+        "theater": "2010-10-15",
+        "dvd": "2011-03-08"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 63,
+        "audience_rating": "Upright",
+        "audience_score": 71
+      },
+      "synopsis": "Johnny Knoxville and his buddies are up to their daredevil comic antics again. And this time they're coming at ya' in 3D.-- (C) Paramount",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/15/07/11150744_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/15/07/11150744_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/15/07/11150744_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/15/07/11150744_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Johnny Knoxville"
+        },
+        {
+          "name": "Bam Margera"
+        },
+        {
+          "name": "Ryan Dunn"
+        },
+        {
+          "name": "Stephen 'Steve-O' Glover"
+        },
+        {
+          "name": "Jason \"Wee Man\" Acuna"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1116184"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770802613.json",
+        "alternate": "http://www.rottentomatoes.com/m/jackass-3/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770802613/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770802613/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770802613/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770802613/similar.json"
+      }
+    },
+    {
+      "id": "13004",
+      "title": "Jackie Brown",
+      "year": 1997,
+      "mpaa_rating": "R",
+      "runtime": 155,
+      "critics_consensus": "Tarantino's third film, fashioned as a comeback vehicle for star Pam Grier, offers typical wit and charm -- and is typically overstuffed.",
+      "release_dates": {
+        "theater": "1997-12-25",
+        "dvd": "1998-08-05"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 86,
+        "audience_rating": "Upright",
+        "audience_score": 78
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/93/45/10934571_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/93/45/10934571_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/93/45/10934571_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/93/45/10934571_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Pam Grier",
+          "characters": [
+            "Jackie Brown"
+          ]
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "characters": [
+            "Ordell Robbie"
+          ]
+        },
+        {
+          "name": "Robert Forster",
+          "characters": [
+            "Max Cherry"
+          ]
+        },
+        {
+          "name": "Bridget Fonda",
+          "characters": [
+            "Melanie"
+          ]
+        },
+        {
+          "name": "Michael Keaton",
+          "characters": [
+            "Ray Nicolette"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0119396"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13004.json",
+        "alternate": "http://www.rottentomatoes.com/m/jackie_brown/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13004/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13004/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13004/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13004/similar.json"
+      }
+    },
+    {
+      "id": "771205893",
+      "title": "Jack and Jill",
+      "year": 2011,
+      "mpaa_rating": "PG",
+      "runtime": 93,
+      "critics_consensus": "Although it features an inexplicably committed performance from Al Pacino, Jack and Jill is impossible to recommend on any level whatsoever.",
+      "release_dates": {
+        "theater": "2011-11-11",
+        "dvd": "2012-03-06"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 3,
+        "audience_rating": "Spilled",
+        "audience_score": 40
+      },
+      "synopsis": "Jack and Jill is a comedy focusing on Jack Sadelstein (Adam Sandler), a successful advertising executive in Los Angeles with a beautiful wife and kids, who dreads one event each year: the Thanksgiving visit of his identical twin sister Jill (also Adam Sandler). Jill's neediness and passive-aggressiveness is maddening to Jack, turning his normally tranquil life upside down. Katie Holmes plays Erin, Jack's wife. -- (C) Sony Pictures",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/16/06/11160644_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/16/06/11160644_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/16/06/11160644_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/16/06/11160644_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Adam Sandler",
+          "characters": [
+            "Jack Sadelstein",
+            "Jill Sadelstein"
+          ]
+        },
+        {
+          "name": "Katie Holmes",
+          "characters": [
+            "Erin"
+          ]
+        },
+        {
+          "name": "Al Pacino",
+          "characters": [
+            "Himself"
+          ]
+        },
+        {
+          "name": "Elodie Tougne",
+          "characters": [
+            "Sophia"
+          ]
+        },
+        {
+          "name": "Rohan Chand",
+          "characters": [
+            "Gary"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0810913"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack_and_jill_2011/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771205893/similar.json"
+      }
+    },
+    {
+      "id": "11583",
+      "title": "Jack",
+      "year": 1996,
+      "mpaa_rating": "PG-13",
+      "runtime": 113,
+      "release_dates": {
+        "theater": "1996-08-09",
+        "dvd": "2004-08-03"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 17,
+        "audience_rating": "Spilled",
+        "audience_score": 57
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/26/14/261407_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/26/14/261407_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/26/14/261407_det.jpg",
+        "original": "http://content9.flixster.com/movie/26/14/261407_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Robin Williams",
+          "characters": [
+            "Jack Powell"
+          ]
+        },
+        {
+          "name": "Diane Lane",
+          "characters": [
+            "Karen Powell"
+          ]
+        },
+        {
+          "name": "Jennifer Lopez",
+          "characters": [
+            "Miss Marquez"
+          ]
+        },
+        {
+          "name": "Brian Kerwin",
+          "characters": [
+            "PowellBrian"
+          ]
+        },
+        {
+          "name": "Fran Drescher",
+          "characters": [
+            "Dolores Durante"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0116669"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/11583.json",
+        "alternate": "http://www.rottentomatoes.com/m/1072875-jack/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/11583/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/11583/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/11583/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/11583/similar.json"
+      }
+    },
+    {
+      "id": "13085",
+      "title": "The Jacket",
+      "year": 2005,
+      "mpaa_rating": "R",
+      "runtime": 102,
+      "critics_consensus": "The Jacket is a case of creepy style over substance.",
+      "release_dates": {
+        "theater": "2005-03-04",
+        "dvd": "2005-06-21"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 44,
+        "audience_rating": "Upright",
+        "audience_score": 71
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/51/82/35/5182353_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/51/82/35/5182353_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/51/82/35/5182353_det.jpg",
+        "original": "http://content7.flixster.com/movie/51/82/35/5182353_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Adrien Brody",
+          "characters": [
+            "Jack Starks"
+          ]
+        },
+        {
+          "name": "Keira Knightley",
+          "characters": [
+            "Jackie Price"
+          ]
+        },
+        {
+          "name": "Kris Kristofferson",
+          "characters": [
+            "Dr. Becker"
+          ]
+        },
+        {
+          "name": "Jennifer Jason Leigh",
+          "characters": [
+            "Dr. Lorenson"
+          ]
+        },
+        {
+          "name": "Daniel Craig",
+          "characters": [
+            "Mackenzie"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0366627"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13085.json",
+        "alternate": "http://www.rottentomatoes.com/m/jacket/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13085/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13085/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13085/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13085/similar.json"
+      }
+    },
+    {
+      "id": "10986",
+      "title": "The Villain (Cactus Jack)",
+      "year": 1979,
+      "mpaa_rating": "PG",
+      "runtime": 88,
+      "release_dates": {
+        "theater": "1979-07-20",
+        "dvd": "2002-05-21"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 0,
+        "audience_rating": "Spilled",
+        "audience_score": 41
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/10/93/11/10931172_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/10/93/11/10931172_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/10/93/11/10931172_det.jpg",
+        "original": "http://content6.flixster.com/movie/10/93/11/10931172_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Kirk Douglas",
+          "characters": [
+            "Cactus Jack"
+          ]
+        },
+        {
+          "name": "Ann-Margret",
+          "characters": [
+            "Charming Jones"
+          ]
+        },
+        {
+          "name": "Arnold Schwarzenegger",
+          "characters": [
+            "Handsome Stranger"
+          ]
+        },
+        {
+          "name": "Paul Lynde",
+          "characters": [
+            "Nervous Elk"
+          ]
+        },
+        {
+          "name": "Foster Brooks",
+          "characters": [
+            "Bank Clerk"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0080097"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/10986.json",
+        "alternate": "http://www.rottentomatoes.com/m/villain/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/10986/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/10986/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/10986/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/10986/similar.json"
+      }
+    },
+    {
+      "id": "770859269",
+      "title": "Casino Jack And The United States Of Money",
+      "year": 2010,
+      "mpaa_rating": "R",
+      "runtime": 120,
+      "critics_consensus": "Casino Jack's subject matter is enraging, but in the hands pf director Alex Gibney, it's also well-presented and briskly entertaining.",
+      "release_dates": {
+        "theater": "2010-05-07",
+        "dvd": "2010-09-14"
+      },
+      "ratings": {
+        "critics_rating": "Certified Fresh",
+        "critics_score": 84,
+        "audience_rating": "Upright",
+        "audience_score": 79
+      },
+      "synopsis": "Lobbyists have long played a powerful role in American politics, but it wasn't until Jack Abramoff became the center of a 2006 corruption scandal with ties to leading members of Congress (and even the White House) that many became aware of just how deep and pernicious their influence truly was. The son of a wealthy businessman, Abramoff became a Republican activist in college, involved in programs to raise funds for GOP candidates and supporting political movements in Angola and South Africa that he believed promoted a free-market ideology. In 2001, Abramoff took control of a profitable gaming empire after the murder of casino owner Gus Boulis, while also operating a lobbying business that curried political favor among Republican politicians through money and expensive gifts (one of his leading allies was GOP party whip Tom DeLay). However, when Abramoff was discovered to have defrauded a number of Native American groups hoping to open gambling casinos with promises of political favors that could be obtained for the right price, his empire came crashing to the ground, taking a number of important reputations along with it. Filmmaker Alex Gibney chronicles the rise and fall of Jack Abramoff and the often bizarre story of how his political and financial ambitions took root in the documentary Casino Jack and the United States of Money, which includes interviews with a number of his associates and rare newsreel footage of his early years as a political gadfly. Casino Jack and the United States of Money was an official selection at the 2010 Sundance Film Festival. ~ Mark Deming, Rovi",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/13/62/11136251_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/13/62/11136251_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/13/62/11136251_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/13/62/11136251_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jack Abramoff"
+        },
+        {
+          "name": "William Branner"
+        },
+        {
+          "name": "Tom Delay"
+        },
+        {
+          "name": "Donn Dunlop"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1540814"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770859269.json",
+        "alternate": "http://www.rottentomatoes.com/m/casino_jack_and_the_united_state_of_money/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770859269/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770859269/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770859269/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770859269/similar.json"
+      }
+    },
+    {
+      "id": "13495",
+      "title": "The Jackal",
+      "year": 1997,
+      "mpaa_rating": "Unrated",
+      "runtime": 125,
+      "release_dates": {
+        "theater": "1997-11-14",
+        "dvd": "2002-01-02"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 12,
+        "audience_rating": "Spilled",
+        "audience_score": 56
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/27/00/270015_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/27/00/270015_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/27/00/270015_det.jpg",
+        "original": "http://content9.flixster.com/movie/27/00/270015_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Willis",
+          "characters": [
+            "The Jackal"
+          ]
+        },
+        {
+          "name": "Richard Gere",
+          "characters": [
+            "Declan Mulqueen"
+          ]
+        },
+        {
+          "name": "Sidney Poitier",
+          "characters": [
+            "Cater Preston"
+          ]
+        },
+        {
+          "name": "Diane Venora",
+          "characters": [
+            "Valentina Koslova"
+          ]
+        },
+        {
+          "name": "Tess Harper",
+          "characters": [
+            "The First Lady"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0119395"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/13495.json",
+        "alternate": "http://www.rottentomatoes.com/m/jackal/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/13495/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/13495/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/13495/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/13495/similar.json"
+      }
+    },
+    {
+      "id": "770814722",
+      "title": "Casino Jack",
+      "year": 2010,
+      "mpaa_rating": "R",
+      "runtime": 108,
+      "critics_consensus": "Kevin Spacey turns in one of his stronger performances, but Casino Jack is a disappointingly uneven fictionalized account of a fascinating true story.",
+      "release_dates": {
+        "theater": "2010-12-17",
+        "dvd": "2011-04-05"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 36,
+        "audience_rating": "Spilled",
+        "audience_score": 35
+      },
+      "synopsis": "Two-time Academy Award Winner Kevin Spacey gives the performance of a lifetime in CASINO JACK, a riotous new film starring Spacey as a man hell bent on acquiring all that the good life has to offer. He plays in the same game as the highest of rollers and resorts to awe-inspiring levels of conning, scheming and fraudulent antics to get what he wants. Inspired by true events that are too over-the-top for even the wildest imaginations to conjure, CASINO JACK lays bare the wild excesses and escapades of Jack Abramoff. Aided by his business partner Michael Scanlon (Barry Pepper), Jack parlays his clout over some of the world's most powerful men with the goal of creating a personal empire of wealth and influence. When the two enlist a mob-connected buddy (Jon Lovitz) to help with one of their illegal schemes, they soon find themselves in over their heads, entrenched in a world of mafia assassins, murder and a scandal that spins so out of control that it makes worldwide headlines. Directed by George Hickenlooper (FACTORY GIRL, THE MAN FROM ELYSIAN FIELDS), CASINO JACK returns Spacey to the type of role that made him famous - a cool-headed, articulate snake charmer whose wild ambitions knows no limits or boundaries. The film also stars Kelly Preston and Rachelle Lefevre and is produced by Gary Howsam, Bill Marks and George Vitetzakis from an original screenplay by Norman Snider. Executive Producers are Richard Rionda Del Castro, Lewin Webb, Donald Zuckerman, Dana Brunetti, Patricia Eberle, Warren Nimchuk, Angelo Paletta and Domenic Serafino. The Associate Producer is Rick Chad. -- (C) Art Takes Over",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/15/41/11154140_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/15/41/11154140_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/15/41/11154140_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/15/41/11154140_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Kevin Spacey",
+          "characters": [
+            "Jack Abramoff"
+          ]
+        },
+        {
+          "name": "Barry Pepper",
+          "characters": [
+            "Michael Scanlon"
+          ]
+        },
+        {
+          "name": "Jon Lovitz",
+          "characters": [
+            "Adam Kidan"
+          ]
+        },
+        {
+          "name": "Kelly Preston",
+          "characters": [
+            "Pam Abramoff"
+          ]
+        },
+        {
+          "name": "Rachelle Lefevre",
+          "characters": [
+            "Emily Miller"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1194417"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814722.json",
+        "alternate": "http://www.rottentomatoes.com/m/casino-jack/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814722/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814722/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814722/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770814722/similar.json"
+      }
+    },
+    {
+      "id": "14114",
+      "title": "New Jack City",
+      "year": 1991,
+      "mpaa_rating": "R",
+      "runtime": 101,
+      "release_dates": {
+        "dvd": "1998-08-25"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 76,
+        "audience_rating": "Upright",
+        "audience_score": 74
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/14/58/11145817_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/14/58/11145817_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/14/58/11145817_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/14/58/11145817_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Wesley Snipes",
+          "characters": [
+            "Nino Brown"
+          ]
+        },
+        {
+          "name": "Ice-T",
+          "characters": [
+            "Scotty Appleton"
+          ]
+        },
+        {
+          "name": "Mario Van Peebles"
+        },
+        {
+          "name": "Allen Payne",
+          "characters": [
+            "Gee Money"
+          ]
+        },
+        {
+          "name": "Judd Nelson",
+          "characters": [
+            "Officer Nick Peretti"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0102526"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/14114.json",
+        "alternate": "http://www.rottentomatoes.com/m/new_jack_city/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/14114/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/14114/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/14114/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/14114/similar.json"
+      }
+    },
+    {
+      "id": "11878",
+      "title": "The Trial of Billy Jack",
+      "year": 1974,
+      "mpaa_rating": "PG",
+      "runtime": 170,
+      "release_dates": {
+        "dvd": "2000-10-31"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 60,
+        "audience_rating": "Spilled",
+        "audience_score": 57
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/26/28/262815_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/26/28/262815_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/26/28/262815_det.jpg",
+        "original": "http://content9.flixster.com/movie/26/28/262815_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Tom Laughlin",
+          "characters": [
+            "Billy Jack"
+          ]
+        },
+        {
+          "name": "Delores Taylor",
+          "characters": [
+            "Jean Roberts"
+          ]
+        },
+        {
+          "name": "Victor Izay",
+          "characters": [
+            "Doc"
+          ]
+        },
+        {
+          "name": "Terasa Laughlin",
+          "characters": [
+            "Carol"
+          ]
+        },
+        {
+          "name": "William Wellman Jr.",
+          "characters": [
+            "National Guardsman"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0072317"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/11878.json",
+        "alternate": "http://www.rottentomatoes.com/m/trial_of_billy_jack/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/11878/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/11878/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/11878/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/11878/similar.json"
+      }
+    },
+    {
+      "id": "770684067",
+      "title": "I Don't Know Jack",
+      "year": 2001,
+      "mpaa_rating": "Unrated",
+      "runtime": 91,
+      "release_dates": {
+        "theater": "2002-04-05",
+        "dvd": "2005-03-15"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_rating": "Upright",
+        "audience_score": 70
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/83/93/10839303_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/83/93/10839303_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/83/93/10839303_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/83/93/10839303_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "John Achorn"
+        },
+        {
+          "name": "Leo Bulgarini"
+        },
+        {
+          "name": "Catherine Case"
+        },
+        {
+          "name": "Catherine E. Coulson"
+        },
+        {
+          "name": "Billy DaMota"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0292553"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770684067.json",
+        "alternate": "http://www.rottentomatoes.com/m/i_dont_know_jack/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770684067/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770684067/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770684067/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770684067/similar.json"
+      }
+    },
+    {
+      "id": "18676",
+      "title": "Straight Jacket",
+      "year": 2004,
+      "mpaa_rating": "Unrated",
+      "runtime": 96,
+      "release_dates": {
+        "theater": "2004-03-04",
+        "dvd": "2005-06-21"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 48,
+        "audience_rating": "Spilled",
+        "audience_score": 53
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/10/92/38/10923826_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/10/92/38/10923826_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/10/92/38/10923826_det.jpg",
+        "original": "http://content8.flixster.com/movie/10/92/38/10923826_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Matt Letscher",
+          "characters": [
+            "Guy Stone"
+          ]
+        },
+        {
+          "name": "Carrie Preston",
+          "characters": [
+            "Sally"
+          ]
+        },
+        {
+          "name": "Veronica Cartwright",
+          "characters": [
+            "Jerry"
+          ]
+        },
+        {
+          "name": "Adam Greer",
+          "characters": [
+            "Rick Foster"
+          ]
+        },
+        {
+          "name": "Jack Plotnick",
+          "characters": [
+            "Freddie"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0367097"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/18676.json",
+        "alternate": "http://www.rottentomatoes.com/m/straightjacket/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/18676/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/18676/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/18676/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/18676/similar.json"
+      }
+    },
+    {
+      "id": "770682917",
+      "title": "Jack of All Trades (The Two of Us)",
+      "year": 1936,
+      "mpaa_rating": "Unrated",
+      "runtime": 75,
+      "release_dates": {
+        "theater": "1936-01-01"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_rating": "Upright",
+        "audience_score": 60
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jack Hulbert",
+          "characters": [
+            "Jack Warrender"
+          ]
+        },
+        {
+          "name": "Gina Malo",
+          "characters": [
+            "Frances Wilson"
+          ]
+        },
+        {
+          "name": "Athole Stewart",
+          "characters": [
+            "Huckle"
+          ]
+        },
+        {
+          "name": "Felix Aylmer",
+          "characters": [
+            "Benton"
+          ]
+        },
+        {
+          "name": "H.F. Maltby",
+          "characters": [
+            "Holman"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0030905"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682917.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack-of-all-trades-the-two-of-us1936/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682917/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682917/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682917/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770682917/similar.json"
+      }
+    },
+    {
+      "id": "12071",
+      "title": "Kangaroo Jack",
+      "year": 2003,
+      "mpaa_rating": "PG",
+      "runtime": 89,
+      "critics_consensus": "The humor is gratingly dumb, and Kangaroo Jack contains too much violence and sexual innuendo for a family movie.",
+      "release_dates": {
+        "theater": "2003-01-17",
+        "dvd": "2003-06-24"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 8,
+        "audience_rating": "Spilled",
+        "audience_score": 36
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/26/37/263725_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/26/37/263725_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/26/37/263725_det.jpg",
+        "original": "http://content7.flixster.com/movie/26/37/263725_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jerry O'Connell",
+          "characters": [
+            "Charlie Carbone"
+          ]
+        },
+        {
+          "name": "Anthony Anderson",
+          "characters": [
+            "Louis Booker"
+          ]
+        },
+        {
+          "name": "Estella Warren",
+          "characters": [
+            "Jessie"
+          ]
+        },
+        {
+          "name": "Michael Shannon",
+          "characters": [
+            "Frankie"
+          ]
+        },
+        {
+          "name": "Christopher Walken",
+          "characters": [
+            "Sal Maggio"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/12071.json",
+        "alternate": "http://www.rottentomatoes.com/m/kangaroo_jack/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/12071/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/12071/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/12071/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/12071/similar.json"
+      }
+    },
+    {
+      "id": "770697383",
+      "title": "Jack Johnson: The September Sessions",
+      "year": 2002,
+      "mpaa_rating": "Unrated",
+      "runtime": 40,
+      "release_dates": {
+        "dvd": "2006-09-26"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_rating": "Upright",
+        "audience_score": 100
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/10/88/53/10885355_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/10/88/53/10885355_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/10/88/53/10885355_det.jpg",
+        "original": "http://content9.flixster.com/movie/10/88/53/10885355_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Rob Machado"
+        },
+        {
+          "name": "Luke Egan"
+        },
+        {
+          "name": "Brad Gerlach"
+        },
+        {
+          "name": "Kelly Slater"
+        },
+        {
+          "name": "Ross Williams"
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770697383.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack-johnson-the-september-sessions/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770697383/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770697383/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770697383/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770697383/similar.json"
+      }
+    },
+    {
+      "id": "9679",
+      "title": "Jack & The Beanstalk",
+      "year": 1974,
+      "mpaa_rating": "G",
+      "runtime": 89,
+      "release_dates": {
+        "theater": "1974-02-13",
+        "dvd": "2005-06-28"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_rating": "Spilled",
+        "audience_score": 44
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/25/21/252198_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/25/21/252198_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/25/21/252198_det.jpg",
+        "original": "http://content8.flixster.com/movie/25/21/252198_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Jack Grimes"
+        },
+        {
+          "name": "Corinne Orr"
+        },
+        {
+          "name": "Billie Lou Watt"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0074705"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/9679.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack-the-beanstalk/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/9679/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/9679/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/9679/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/9679/similar.json"
+      }
+    },
+    {
+      "id": "770880905",
+      "title": "Four Jacks and a Jill",
+      "year": 1941,
+      "mpaa_rating": "Unrated",
+      "runtime": 68,
+      "release_dates": {},
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 0
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Ray Bolger",
+          "characters": [
+            "Nifty"
+          ]
+        },
+        {
+          "name": "Anne Shirley",
+          "characters": [
+            "Nine"
+          ]
+        },
+        {
+          "name": "June Havoc",
+          "characters": [
+            "Opal"
+          ]
+        },
+        {
+          "name": "Desi Arnaz",
+          "characters": [
+            "Steve"
+          ]
+        },
+        {
+          "name": "Jack Durant",
+          "characters": [
+            "The Noodle"
+          ]
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770880905.json",
+        "alternate": "http://www.rottentomatoes.com/m/four_jacks_and_a_jill/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770880905/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770880905/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770880905/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770880905/similar.json"
+      }
+    },
+    {
+      "id": "157435925",
+      "title": "Jack Frost",
+      "year": 1998,
+      "mpaa_rating": "PG",
+      "runtime": 101,
+      "critics_consensus": "Sentimental schmaltz and uninspired storytelling sink this film.",
+      "release_dates": {
+        "theater": "1998-12-11",
+        "dvd": "1999-11-02"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 16,
+        "audience_rating": "Spilled",
+        "audience_score": 47
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/15/96/11159601_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/15/96/11159601_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/15/96/11159601_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/15/96/11159601_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Michael Keaton",
+          "characters": [
+            "Jack Frost"
+          ]
+        },
+        {
+          "name": "Kelly Preston",
+          "characters": [
+            "Gabby Frost"
+          ]
+        },
+        {
+          "name": "Mark Addy",
+          "characters": [
+            "Mac MacArthur"
+          ]
+        },
+        {
+          "name": "Joseph Cross",
+          "characters": [
+            "Charlie Frost"
+          ]
+        },
+        {
+          "name": "Scott Thomson",
+          "characters": [
+            "Dennis' Dad"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0141109"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/157435925.json",
+        "alternate": "http://www.rottentomatoes.com/m/1090089-jack_frost/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/157435925/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/157435925/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/157435925/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/157435925/similar.json"
+      }
+    },
+    {
+      "id": "770795746",
+      "title": "Jack Taylor of Beverly Hills",
+      "year": 2006,
+      "mpaa_rating": "PG",
+      "runtime": 72,
+      "release_dates": {
+        "theater": "2007-01-02",
+        "dvd": "2009-04-28"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_rating": "Upright",
+        "audience_score": 67
+      },
+      "synopsis": "",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/06/33/11063336_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/06/33/11063336_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/06/33/11063336_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/06/33/11063336_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bing Crosby"
+        },
+        {
+          "name": "Charles Bronson"
+        },
+        {
+          "name": "Hal Linden"
+        },
+        {
+          "name": "Jack Taylor"
+        },
+        {
+          "name": "Jason Bentley"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0972381"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770795746.json",
+        "alternate": "http://www.rottentomatoes.com/m/jack_taylor_of_beverly_hills/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770795746/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770795746/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770795746/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770795746/similar.json"
+      }
     }
-  }],
+  ],
   "links": {
-    "self": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=Jack&page_limit=1&page=1",
-    "next": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=Jack&page_limit=1&page=2"
+    "self": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=Jack&page_limit=30&page=1",
+    "next": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q=Jack&page_limit=30&page=2"
   },
-  "link_template": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&page={page-number}&page_limit={results-per-page}"
-
+  "link_template": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&page_limit={results-per-page}&page={page-number}"
 }
+
 

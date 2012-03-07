@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "multi_json", "~> 1.0"
   s.add_runtime_dependency "httpclient", ">= 2.2.0.2"
   s.add_runtime_dependency "hashie", ">= 1.1.0"
+  s.add_runtime_dependency "pry", ">= 0.9.8.4"
   s.add_development_dependency "rake", ">= 0.8.7"
   s.add_development_dependency "rspec", ">= 2"
   s.add_development_dependency "webmock", ">= 1.6.2"

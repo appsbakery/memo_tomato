@@ -1,12 +1,12 @@
 require File.expand_path(File.dirname(__FILE__) + "/../spec_helper")
 
 describe MemoTomato::Client do
-  let(:client) { MemoTomato::Client.new(:key => 'abcd1234') }
+  let(:client) { MemoTomato::Client.new(:apikey => 'abcd1234') }
   
   describe '#build_params' do
     it 'should merge provided params with api key' do
       params = client.send :build_params, { :q => 'Jack' }
-      params[:key].should == 'abcd1234'
+      params[:apikey].should == 'abcd1234'
       params[:q].should == 'Jack'
     end
   end

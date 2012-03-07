@@ -3,6 +3,7 @@ $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 
 
 require 'rspec'
+require 'pry'
 require 'timecop'
 require 'memo_tomato'
 require 'helpers/webmock_helper'
