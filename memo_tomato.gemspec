@@ -5,11 +5,11 @@ require "memo_tomato/version"
 Gem::Specification.new do |s|
   s.name        = "memo_tomato"
   s.version     = MemoTomato::VERSION
-  s.authors     = ["Todor Grudev"]
-  s.email       = ["tagrudev@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Todor Grudev", "Alex Ganov"]
+  s.email       = ["tagrudev@gmail.com", "aganov@gmail.com"]
+  s.homepage    = "www.appsbakery.eu"
+  s.summary     = %q{Memo Tomato is an api wrapper for the http://api.rottentomatoes.com/ The gem is created to fulfil the needs of the project http://watchmemo.com}
+  s.description = %q{https://github.com/appsbakery/memo_tomato}
 
   s.rubyforge_project = "memo_tomato"
 
@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "multi_json", "~> 1.0"
   s.add_runtime_dependency "httpclient", ">= 2.2.0.2"
   s.add_runtime_dependency "hashie", ">= 1.1.0"
-  s.add_runtime_dependency "pry", ">= 0.9.8.4"
+  s.add_development_dependency "pry", ">= 0.9.8.4"
   s.add_development_dependency "rake", ">= 0.8.7"
   s.add_development_dependency "rspec", ">= 2"
   s.add_development_dependency "webmock", ">= 1.6.2"

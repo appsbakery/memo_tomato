@@ -21,4 +21,12 @@ Get show info with
 
     client.movie_info("THE ID OF THE SHOW")
 
+Get similar movies info with
+
+    client.similar_movies("THE ID OF THE SHOW")
+
+Get upcoming movies 
+
+    client.upcoming_movies
+
 
