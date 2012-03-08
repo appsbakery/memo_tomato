@@ -12,6 +12,11 @@ module MemoTomato
       parser.parse
     end    
     
+    def movie_info(id)
+      content = get("movies/#{id}")
+      parser = MemoTomato::Parser::MovieInfo.new content
+      parser.parse
+    end
     private
     def get(path, params = {})
       HTTPClient.get build_endpoint(path), build_params(params)

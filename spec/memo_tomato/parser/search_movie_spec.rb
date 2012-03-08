@@ -7,7 +7,11 @@ describe MemoTomato::Parser::SearchMovie do
     mock_api :get, 'movies', 'movies', :params => client.params.merge(:q => "Jack") do
       m = client.search("Jack")
       m.class.should == Array
-      m.first.title == "Jack the Giant Killer"
+      m.count.should == 30
+      m.first.title.should == "Jack the Giant Killer"
+      m.first.release_date == "2012-06-15"
+      m.first.studio.should == nil
+      m.first.cast.first.name.should == "Nicholas Hoult"
     end
   end
 end
