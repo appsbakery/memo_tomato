@@ -17,6 +17,12 @@ module MemoTomato
       parser = MemoTomato::Parser::MovieInfo.new content
       parser.parse
     end
+
+    def similar_movies(id)
+      content = get("movies/#{id}/similar")
+      parser = MemoTomato::Parser::SimilarMovies.new content
+      parser.parse
+    end
     private
     def get(path, params = {})
       HTTPClient.get build_endpoint(path), build_params(params)
