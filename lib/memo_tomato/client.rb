@@ -23,6 +23,12 @@ module MemoTomato
       parser = MemoTomato::Parser::SimilarMovies.new content
       parser.parse
     end
+
+    def upcoming_movies
+      content = get("lists/movies/upcoming")
+      parser = MemoTomato::Parser::UpcomingMovies.new content 
+      parser.parse
+    end
     private
     def get(path, params = {})
       HTTPClient.get build_endpoint(path), build_params(params)
