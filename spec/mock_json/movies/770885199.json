@@ -1,0 +1,40 @@
+{
+    "id": 770885199,
+    "title": "Monty Python Meets Beyond the Fringe",
+    "year": "",
+    "genres": [
+        "Comedy"
+    ],
+    "mpaa_rating": "Unrated",
+    "runtime": 85,
+    "release_dates": {},
+    "ratings": {
+        "critics_score": -1,
+        "audience_score": 100
+    },
+    "synopsis": "",
+    "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+    },
+    "abridged_cast": [
+        {
+            "name": "Monty Python Cast",
+            "id": "770882204"
+        },
+        {
+            "name": "Beyond The Fringe Cast",
+            "id": "770882205"
+        }
+    ],
+    "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770885199.json",
+        "alternate": "http://www.rottentomatoes.com/m/monty_python_meets_beyond_the_fringe/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770885199/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770885199/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770885199/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770885199/similar.json"
+    }
+}

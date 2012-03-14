@@ -20,28 +20,24 @@ module MemoTomato
           :synopsis => movie.synopsis,
           :image => movie.posters.detailed,
           :studio => movie.studio,
-          :cast => 
-            movie.abridged_cast.collect do |actor|
+          :cast =>
+            Array(movie.abridged_cast).collect do |actor|
               MemoTomato::Actor.new(
                 :name => actor.name,
                 :characters => actor.characters
               )
             end,
-          :directors => 
-            unless movie.abridged_directors == nil
-              movie.abridged_directors.collect do |director|
-                MemoTomato::Director.new(
-                  :name => director.name
-                )
-              end
+          :directors =>
+            Array(movie.abridged_directors).collect do |director|
+              MemoTomato::Director.new(
+                :name => director.name
+              )
             end,
-          :genres => 
-            unless movie.genres == nil
-              movie.genres.collect do |genre|
-                MemoTomato::Genre.new(
-                  :type => genre
-                )
-              end
+          :genres =>
+            Array(movie.genres).collect do |genre|
+              MemoTomato::Genre.new(
+                :type => genre
+              )
             end
         )
       end
