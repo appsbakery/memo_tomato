@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = MemoTomato::VERSION
   s.authors     = ["Todor Grudev", "Alex Ganov"]
   s.email       = ["tagrudev@gmail.com", "aganov@gmail.com"]
-  s.homepage    = "www.appsbakery.eu"
+  s.homepage    = "http://www.appsbakery.eu"
   s.summary     = %q{Memo Tomato is an api wrapper for the http://api.rottentomatoes.com/ The gem is created to fulfil the needs of the project http://watchmemo.com}
   s.description = %q{https://github.com/appsbakery/memo_tomato}
 
