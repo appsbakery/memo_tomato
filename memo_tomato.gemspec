@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = MemoTomato::VERSION
   s.authors     = ["Todor Grudev", "Alex Ganov"]
   s.email       = ["tagrudev@gmail.com", "aganov@gmail.com"]
-  s.homepage    = "http://www.appsbakery.eu"
-  s.summary     = %q{Memo Tomato is an api wrapper for the http://api.rottentomatoes.com/ The gem is created to fulfil the needs of the project http://watchmemo.com}
-  s.description = %q{https://github.com/appsbakery/memo_tomato}
+  s.homepage    = "http://github.com/appsbakery/memo_tomato"
+  s.summary     = %q{Ruby wrapper for the Rotten Tomatoes API}
+  s.description = %q{An object-oriented Ruby wrapper for the Rotten Tomatoes API http://api.rottentomatoes.com/}
 
   s.rubyforge_project = "memo_tomato"
 
