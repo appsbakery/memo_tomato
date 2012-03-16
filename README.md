@@ -3,7 +3,8 @@
 This gem is an object-oriented Ruby wrapper for the Rotten Tomatoes API
 http://api.rottentomatoes.com/
 
-[![Build Status](https://secure.travis-ci.org/appsbakery/memo_tomato.png)](http://travis-ci.org/appsbakery/memo_tomato)
+[![Build Status](https://secure.travis-ci.org/appsbakery/memo_tomato.png?branch=master)](http://travis-ci.org/appsbakery/memo_tomato)
+[![Dependency Status](https://gemnasium.com/appsbakery/memo_tomato.png?travis)](http://gemnasium.com/appsbakery/memo_tomato)
 
 ## Installation
 
