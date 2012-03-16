@@ -1,15 +1,24 @@
 module MemoTomato
   module Parser
     class Base
-      def initialize(content)
-        @content = content
+      def initialize(response)
+        @response = response
       end
       
       def parse
-        parse_content @content
+        @content = Hashie::Mash.new(MultiJson.decode(@response.body))
+        parse_content
+      end
+      
+      # This should be implemented in child class
+      def parse_content
       end
 
       def parse_entry(movie)
+        unless (movie.posters.detailed =~ /poster_default.gif$/).nil?
+          movie.posters.detailed = nil
+        end
+        
         MemoTomato::Movie.new(
           :id => movie.id,
           :title => movie.title,

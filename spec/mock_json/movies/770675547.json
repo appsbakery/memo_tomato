@@ -1,0 +1,49 @@
+{
+    "id": 770675547,
+    "title": "Moi, Tintin (I, Tintin)",
+    "year": 1976,
+    "genres": [
+        "Documentary",
+        "Art House & International"
+    ],
+    "mpaa_rating": "Unrated",
+    "runtime": 87,
+    "release_dates": {},
+    "ratings": {
+        "critics_score": -1,
+        "audience_score": 100
+    },
+    "synopsis": "",
+    "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+    },
+    "abridged_cast": [
+        {
+            "name": "Herge",
+            "id": "770674338"
+        },
+        {
+            "name": "Gerard Valet",
+            "id": "770680542"
+        }
+    ],
+    "abridged_directors": [
+        {
+            "name": "Henri Roanne"
+        }
+    ],
+    "alternate_ids": {
+        "imdb": "0257927"
+    },
+    "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675547.json",
+        "alternate": "http://www.rottentomatoes.com/m/moi-tintin-i-tintin/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675547/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675547/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675547/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/770675547/similar.json"
+    }
+}

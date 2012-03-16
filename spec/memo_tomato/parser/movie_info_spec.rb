@@ -10,6 +10,7 @@ describe MemoTomato::Parser::MovieInfo do
       movie.id.should == 770672122
       movie.directors.first.name.should == "Lee Unkrich"
       movie.genres.first.type.should == "Animation"
+      movie.image.should == "http://content6.flixster.com/movie/11/13/43/11134356_det.jpg"
     end
   end
   
@@ -18,6 +19,13 @@ describe MemoTomato::Parser::MovieInfo do
       movie = client.movie_info("770885199")
       movie.directors.should == []
     end
+  end
+  
+  it 'should reject `default_poster.gif` for movie poster' do
+    mock_api :get, 'movies/770675547' , 'movies/770675547', :params => client.params do
+      movie = client.movie_info("770675547")
+      movie.image.should be_nil
+    end    
   end
 end
 
