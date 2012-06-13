@@ -42,12 +42,7 @@ module MemoTomato
                 :name => director.name
               )
             end,
-          :genres =>
-            Array(movie.genres).collect do |genre|
-              MemoTomato::Genre.new(
-                :type => genre
-              )
-            end
+          :genres => Array(movie.genres)
         )
       end
     end

@@ -9,7 +9,7 @@ describe MemoTomato::Parser::MovieInfo do
       movie = client.movie_info("770672122")
       movie.id.should == 770672122
       movie.directors.first.name.should == "Lee Unkrich"
-      movie.genres.first.type.should == "Animation"
+      movie.genres.should =~ ["Animation", "Kids & Family", "Science Fiction & Fantasy", "Comedy"]
       movie.image.should == "http://content6.flixster.com/movie/11/13/43/11134356_det.jpg"
     end
   end
